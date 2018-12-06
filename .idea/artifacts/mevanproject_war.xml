@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mevanproject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mevanproject.war">
+      <element id="artifact" artifact-name="mevanproject:war exploded" />
+    </root>
+  </artifact>
+</component>
